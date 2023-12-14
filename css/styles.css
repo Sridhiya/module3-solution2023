@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar {
+
+    border: none;
+    background-color: gray;
+    color: black;
+    border-radius: 1px;
+}
+
+body {
+    background-color: white;
+}
+
+.glyphicon {
+    font-size: 30px;
+    color: black;
+}
+
+.container {
+    background-color: grey;
+}
+
+#header {
+    color: black;
+    align-content: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.text-center {
+    font-size: 30px;
+}
+
+a p {
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+}
+
+.center {
+    width: 90%;
+    background-color: grey;
+
+}
+
+#myNavbar ul li a {
+    color: black;
+}
+
+.navbar-brand {
+    font-size: 30px;
+    color: black;
+    border-radius: 67%;
+}
